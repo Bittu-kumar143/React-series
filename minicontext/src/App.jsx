@@ -3,6 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import UserContextProvider from './context/userContextProvider'
+import UserContext from './context/UserContext';
 import Login from './components/Login'
 
 function App() {
